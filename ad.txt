@@ -24,7 +24,6 @@ www.aiwucm.com##.bottomd
 
 ! 2022-07-25 https://www.aiwucm4.info
 www.aiwucm4.info##.topd
-www.aiwucm4.info##section > .container > .row
 www.aiwucm4.info##div.container > .row
 www.aiwucm4.info##.leftd
 www.aiwucm4.info##.rightd
