@@ -16,3 +16,8 @@ www.dayanzai.me##[src="http://www.dayanzai.me/image/ad/dayanzaifans.png"]
 
 ! 2022-07-25 https://www.aiwucm4.info
 www.aiwucm4.info##div.container > .row
+
+! 2022-07-25 https://www.ypojie.com
+www.ypojie.com##.swiper-container-horizontal.swiper-container-initialized.swiper-container
+www.ypojie.com##.mo-topics
+www.ypojie.com##.excerpt-minic-index.excerpt-minic
