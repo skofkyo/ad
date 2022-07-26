@@ -1,3 +1,4 @@
+! Title: 自用檔廣告規則
 ! 2022-07-23 https://www.azofreeware.com
 www.azofreeware.com##.FeaturedPost.widget
 www.azofreeware.com###HTML9
