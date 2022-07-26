@@ -23,12 +23,12 @@ www.aiwucm.com##.rightd
 www.aiwucm.com##.bottomd
 
 ! 2022-07-25 https://www.aiwucm4.info
-www.aiwucm.info##.topd
-www.aiwucm.info##section > .container > .row
-www.aiwucm.info##div.container > .row
-www.aiwucm.info##.leftd
-www.aiwucm.info##.rightd
-www.aiwucm.info##.bottomd
+www.aiwucm4.info##.topd
+www.aiwucm4.info##section > .container > .row
+www.aiwucm4.info##div.container > .row
+www.aiwucm4.info##.leftd
+www.aiwucm4.info##.rightd
+www.aiwucm4.info##.bottomd
 
 ! 2022-07-25 https://www.ypojie.com
 www.ypojie.com##.swiper-container-horizontal.swiper-container-initialized.swiper-container
