@@ -14,8 +14,21 @@ tw.m.ixdzs.com##.likeit.ix-border-tb.ix-panel
 ! 2022-07-24 http://www.dayanzai.me
 www.dayanzai.me##[src="http://www.dayanzai.me/image/ad/dayanzaifans.png"]
 
+! 2022-07-25 https://www.aiwucm.com
+www.aiwucm.com##.topd
+www.aiwucm.com##section > .container > .row
+www.aiwucm.com##div.container > .row
+www.aiwucm.com##.leftd
+www.aiwucm.com##.rightd
+www.aiwucm.com##.bottomd
+
 ! 2022-07-25 https://www.aiwucm4.info
-www.aiwucm4.info##div.container > .row
+www.aiwucm.info##.topd
+www.aiwucm.info##section > .container > .row
+www.aiwucm.info##div.container > .row
+www.aiwucm.info##.leftd
+www.aiwucm.info##.rightd
+www.aiwucm.info##.bottomd
 
 ! 2022-07-25 https://www.ypojie.com
 www.ypojie.com##.swiper-container-horizontal.swiper-container-initialized.swiper-container
