@@ -1,0 +1,17 @@
+! 2022-07-23 https://www.azofreeware.com
+www.azofreeware.com##.FeaturedPost.widget
+www.azofreeware.com###HTML9
+www.azofreeware.com###HTML2
+www.azofreeware.com##.PopularPosts.widget
+www.azofreeware.com###HTML10
+www.azofreeware.com##footer
+www.azofreeware.com##div.date-outer:nth-of-type(3)
+
+! 2022-07-23 https://tw.m.ixdzs.com
+tw.m.ixdzs.com##.likeit.ix-border-tb.ix-panel
+
+! 2022-07-24 http://www.dayanzai.me
+www.dayanzai.me##[src="http://www.dayanzai.me/image/ad/dayanzaifans.png"]
+
+! 2022-07-25 https://www.aiwucm4.info
+www.aiwucm4.info##div.container > .row
