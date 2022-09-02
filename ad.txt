@@ -14,22 +14,67 @@ tw.m.ixdzs.com##.likeit.ix-border-tb.ix-panel
 ! 2022-07-24 http://www.dayanzai.me
 www.dayanzai.me##[src="http://www.dayanzai.me/image/ad/dayanzaifans.png"]
 
-! 2022-07-25 https://www.aiwucm.com
-www.aiwucm.com##.topd
-www.aiwucm.com##section > .container > .row
-www.aiwucm.com##div.container > .row
-www.aiwucm.com##.leftd
-www.aiwucm.com##.rightd
-www.aiwucm.com##.bottomd
-
 ! 2022-07-25 https://www.aiwucm4.info
-www.aiwucm4.info##.topd
 www.aiwucm4.info##div.container > .row
-www.aiwucm4.info##.leftd
-www.aiwucm4.info##.rightd
-www.aiwucm4.info##.bottomd
 
 ! 2022-07-25 https://www.ypojie.com
 www.ypojie.com##.swiper-container-horizontal.swiper-container-initialized.swiper-container
 www.ypojie.com##.mo-topics
 www.ypojie.com##.excerpt-minic-index.excerpt-minic
+
+! 2022-07-30 https://rou.video
+rou.video##.modal-open.modal-middle.modal
+
+! 2022-07-30 https://xxxmadou.com
+xxxmadou.com##body > div
+
+! 2022-07-30 https://hotgirl.asia
+hotgirl.asia##[href="https://kungfutv.net"]
+
+! 2022-07-30 http://2577ck.com
+2577ck.com##[href^="https://www.s22660s.com:5569/"]
+2577ck.com##[href^="https://5509x.com/"]
+2577ck.com##[href^="https://8815b.com/"]
+2577ck.com##[href^="https://7749x.com"]
+2577ck.com##[href^="https://www.5808a6.com:8866/"]
+2577ck.com##[href="http://9995.dsn66668888.com:9995/sn52.html"]
+2577ck.com##[href="https://6515x.com:1788"]
+2577ck.com##[href="http://zczjs.com"]
+2577ck.com##[href="http://68hantang.com/gg888/gg2.html"]
+2577ck.com##[href="https://zzs123.com.cn"]
+2577ck.com##[href="https://www.50088fafa.com:500/fafa076.htm"]
+2577ck.com##body > div > [href="https://nnfcw23.com"]
+2577ck.com##[href^="http://7971y.com"]
+
+! 2022-07-30 https://madou.club
+madou.club##._1f69a98avisible
+madou.club##.asst-single-footer.asst-m.asst
+madou.club##.asst-list-header.asst
+
+! 2022-07-30 https://mtav.art
+mtav.art##.div-relative
+
+! 2022-07-30 https://rouv01.xyz
+rouv01.xyz##.modal-open.modal-middle.modal
+
+! 2022-08-02 https://www.ypojie.com
+www.ypojie.com##.excerpt-sticky.excerpt-1.excerpt
+
+! 2022-08-04 https://niuc1.com
+niuc1.com##.post-apd
+
+! 2022-08-18 https://avple.tv
+avple.tv##.MuiContainer-maxWidthLg.MuiContainer-root > div > .MuiSkeleton-pulse.jss12.MuiSkeleton-rect.MuiSkeleton-root
+avple.tv##.MuiContainer-maxWidthLg.MuiContainer-root > div > div > .MuiSkeleton-pulse.jss12.MuiSkeleton-rect.MuiSkeleton-root
+
+! 2022-09-02 https://rouv01.xyz
+||img.rou3.xyz/m/*/*/*$image
+rouv01.xyz##div.grid .col-span-2
+
+! 2022-09-02 https://www.24fa.com
+www.24fa.com##div.mframe:nth-of-type(4)
+www.24fa.com##div.mframe:nth-of-type(3)
+
+! 2022-09-02 https://tw.xchina.co
+tw.xchina.co##div.photos div.item
+
