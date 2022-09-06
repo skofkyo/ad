@@ -1,4 +1,8 @@
 ! Title: 自用檔廣告規則
+! https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+! https://easylist-downloads.adblockplus.org/easylistchina.txt
+! https://filters.adavoid.org/ultimate-ad-filter.txt
+
 ! 2022-07-23 https://www.azofreeware.com
 www.azofreeware.com##.FeaturedPost.widget
 www.azofreeware.com###HTML9
@@ -31,21 +35,6 @@ xxxmadou.com##body > div
 ! 2022-07-30 https://hotgirl.asia
 hotgirl.asia##[href="https://kungfutv.net"]
 
-! 2022-07-30 http://2577ck.com
-2577ck.com##[href^="https://www.s22660s.com:5569/"]
-2577ck.com##[href^="https://5509x.com/"]
-2577ck.com##[href^="https://8815b.com/"]
-2577ck.com##[href^="https://7749x.com"]
-2577ck.com##[href^="https://www.5808a6.com:8866/"]
-2577ck.com##[href="http://9995.dsn66668888.com:9995/sn52.html"]
-2577ck.com##[href="https://6515x.com:1788"]
-2577ck.com##[href="http://zczjs.com"]
-2577ck.com##[href="http://68hantang.com/gg888/gg2.html"]
-2577ck.com##[href="https://zzs123.com.cn"]
-2577ck.com##[href="https://www.50088fafa.com:500/fafa076.htm"]
-2577ck.com##body > div > [href="https://nnfcw23.com"]
-2577ck.com##[href^="http://7971y.com"]
-
 ! 2022-07-30 https://madou.club
 madou.club##._1f69a98avisible
 madou.club##.asst-single-footer.asst-m.asst
@@ -77,4 +66,7 @@ www.24fa.com##div.mframe:nth-of-type(3)
 
 ! 2022-09-02 https://tw.xchina.co
 tw.xchina.co##div.photos div.item
+
+! 2022-09-06 https://tw.xchina.co
+tw.xchina.co##.push-bottom
 
