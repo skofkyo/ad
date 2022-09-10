@@ -12,12 +12,6 @@ www.azofreeware.com###HTML10
 www.azofreeware.com##footer
 www.azofreeware.com##div.date-outer:nth-of-type(3)
 
-! 2022-07-23 https://tw.m.ixdzs.com
-tw.m.ixdzs.com##.likeit.ix-border-tb.ix-panel
-
-! 2022-07-24 http://www.dayanzai.me
-www.dayanzai.me##[src="http://www.dayanzai.me/image/ad/dayanzaifans.png"]
-
 ! 2022-07-25 https://www.aiwucm4.info
 www.aiwucm4.info##div.container > .row
 
@@ -31,9 +25,6 @@ rou.video##.modal-open.modal-middle.modal
 
 ! 2022-07-30 https://xxxmadou.com
 xxxmadou.com##body > div
-
-! 2022-07-30 https://hotgirl.asia
-hotgirl.asia##[href="https://kungfutv.net"]
 
 ! 2022-07-30 https://madou.club
 madou.club##._1f69a98avisible
@@ -56,17 +47,30 @@ niuc1.com##.post-apd
 avple.tv##.MuiContainer-maxWidthLg.MuiContainer-root > div > .MuiSkeleton-pulse.jss12.MuiSkeleton-rect.MuiSkeleton-root
 avple.tv##.MuiContainer-maxWidthLg.MuiContainer-root > div > div > .MuiSkeleton-pulse.jss12.MuiSkeleton-rect.MuiSkeleton-root
 
-! 2022-09-02 https://rouv01.xyz
-||img.rou3.xyz/m/*/*/*$image
-rouv01.xyz##div.grid .col-span-2
-
-! 2022-09-02 https://www.24fa.com
-www.24fa.com##div.mframe:nth-of-type(4)
-www.24fa.com##div.mframe:nth-of-type(3)
-
 ! 2022-09-02 https://tw.xchina.co
 tw.xchina.co##div.photos div.item
-
-! 2022-09-06 https://tw.xchina.co
 tw.xchina.co##.push-bottom
+tw.xchina.co##.top
+tw.xchina.co##div.image > div.ad
+
+! 2022-09-09 http://398ck.cc
+398ck.cc##body > div > a
+398ck.cc##li:has( > div > a[href="https://uu27p.com"])
+398ck.cc##div:has( > a[target="_blank"])
+
+! 2022-09-09 https://madou.club
+madou.club##.focusbox
+
+! 2022-09-09 https://www.jokerlu357.cc
+www.jokerlu357.cc##div.col-md-2:has( > div.resent-grid-img > a[href="https://lanren37.xyz"])
+www.jokerlu357.cc##div.col-md-2:has( > div.resent-grid-img > a[href="http://tom-sohu.com/xiaochou-caidan"])
+
+! 2022-09-09 https://jav9999.com
+jav9999.com##.container > .text-center.sygg
+jav9999.com##.sygg.text-center > .text-center
+
+! 2022-09-09 https://javcaptain.com
+javcaptain.com##div:has( > .card > a[target="_blank"])
+
+
 
