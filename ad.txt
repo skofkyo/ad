@@ -70,7 +70,30 @@ jav9999.com##.container > .text-center.sygg
 jav9999.com##.sygg.text-center > .text-center
 
 ! 2022-09-09 https://javcaptain.com
-javcaptain.com##div:has( > .card > a[target="_blank"])
+javcaptain.com##div.category-page.video-list-item.col-xl-3.col-lg-2.col-md-3.col-sm-6.col-6.mb-2
+
+! 2022-09-10 https://www.jpxgyw.cc
+www.jpxgyw.cc##div.pagination > p
+www.jpxgyw.cc##[src="/uploadfile/zyx.gif"]
+www.jpxgyw.cc##.focusbox
+
+! 2022-09-10 https://www.ka234.cc
+www.ka234.cc##.dibu1
+www.ka234.cc##.dibu2
+www.ka234.cc##.Title111
+
+! 2022-09-10 https://hpjav.tv
+hpjav.tv##.visible-lg-block.visible-md-block.visible-sm-block
+
+! 2022-09-13 https://hotgirl.asia
+hotgirl.asia##[href="https://kungfutv.net"]
+
+! 2022-09-13 https://rouv01.xyz
+rouv01.xyz##.grid>.col-span-2
+
+! 2022-09-14 https://www.gdaily.org
+www.gdaily.org##div.col-4.column:has( > .card > .adsbygoogle)
+
 
 
 
