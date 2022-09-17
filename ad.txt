@@ -2,6 +2,7 @@
 ! https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 ! https://easylist-downloads.adblockplus.org/easylistchina.txt
 ! https://filters.adavoid.org/ultimate-ad-filter.txt
+! https://raw.githubusercontent.com/skofkyo/ad/main/ad.txt
 
 ! 阿榮福利味
 www.azofreeware.com##.FeaturedPost.widget
