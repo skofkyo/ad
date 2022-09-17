@@ -3,7 +3,7 @@
 ! https://easylist-downloads.adblockplus.org/easylistchina.txt
 ! https://filters.adavoid.org/ultimate-ad-filter.txt
 
-! 2022-07-23 https://www.azofreeware.com
+! 阿榮福利味
 www.azofreeware.com##.FeaturedPost.widget
 www.azofreeware.com###HTML9
 www.azofreeware.com###HTML2
@@ -11,68 +11,71 @@ www.azofreeware.com##.PopularPosts.widget
 www.azofreeware.com###HTML10
 www.azofreeware.com##footer
 www.azofreeware.com##div.date-outer:nth-of-type(3)
+www.azofreeware.com###Label1
+www.azofreeware.com###LinkList3
+www.azofreeware.com###HTML11
 
-! 2022-07-25 https://www.aiwucm4.info
+!愛污傳媒
 www.aiwucm4.info##div.container > .row
 
-! 2022-07-25 https://www.ypojie.com
+! 亿破姐
 www.ypojie.com##.swiper-container-horizontal.swiper-container-initialized.swiper-container
 www.ypojie.com##.mo-topics
 www.ypojie.com##.excerpt-minic-index.excerpt-minic
+www.ypojie.com##.excerpt-sticky.excerpt-1.excerpt
 
-! 2022-07-30 https://rou.video
+! 肉視頻
 rou.video##.modal-open.modal-middle.modal
+rou.video##.grid>.col-span-2
+rouv01.xyz##.modal-open.modal-middle.modal
+rouv01.xyz##.grid>.col-span-2
 
-! 2022-07-30 https://xxxmadou.com
+! 草麻豆
 xxxmadou.com##body > div
 
-! 2022-07-30 https://madou.club
+! 麻豆社
 madou.club##._1f69a98avisible
 madou.club##.asst-single-footer.asst-m.asst
 madou.club##.asst-list-header.asst
+madou.club##.focusbox
 
-! 2022-07-30 https://mtav.art
+! 蜜桃视频
 mtav.art##.div-relative
 
-! 2022-07-30 https://rouv01.xyz
-rouv01.xyz##.modal-open.modal-middle.modal
-
-! 2022-08-02 https://www.ypojie.com
-www.ypojie.com##.excerpt-sticky.excerpt-1.excerpt
-
-! 2022-08-04 https://niuc1.com
+! 牛C網
 niuc1.com##.post-apd
 
-! 2022-08-18 https://avple.tv
+! Avple.tv
 avple.tv##.MuiContainer-maxWidthLg.MuiContainer-root > div > .MuiSkeleton-pulse.jss12.MuiSkeleton-rect.MuiSkeleton-root
 avple.tv##.MuiContainer-maxWidthLg.MuiContainer-root > div > div > .MuiSkeleton-pulse.jss12.MuiSkeleton-rect.MuiSkeleton-root
 
-! 2022-09-02 https://tw.xchina.co
+! 小黃書
+xchina.co##div.photos div.item
+xchina.co##.push-bottom
+xchina.co##.top
+xchina.co##div.image > div.ad
 tw.xchina.co##div.photos div.item
 tw.xchina.co##.push-bottom
 tw.xchina.co##.top
 tw.xchina.co##div.image > div.ad
 
-! 2022-09-09 http://398ck.cc
+! 黃色倉庫
 398ck.cc##body > div > a
 398ck.cc##li:has( > div > a[href="https://uu27p.com"])
 398ck.cc##div:has( > a[target="_blank"])
 
-! 2022-09-09 https://madou.club
-madou.club##.focusbox
-
-! 2022-09-09 https://www.jokerlu357.cc
+! 小丑撸
 www.jokerlu357.cc##div.col-md-2:has( > div.resent-grid-img > a[href="https://lanren37.xyz"])
 www.jokerlu357.cc##div.col-md-2:has( > div.resent-grid-img > a[href="http://tom-sohu.com/xiaochou-caidan"])
 
-! 2022-09-09 https://jav9999.com
+! JAV9999
 jav9999.com##.container > .text-center.sygg
 jav9999.com##.sygg.text-center > .text-center
 
-! 2022-09-09 https://javcaptain.com
+! JAV目錄大全
 javcaptain.com##div.category-page.video-list-item.col-xl-3.col-lg-2.col-md-3.col-sm-6.col-6.mb-2
 
-! 2022-09-10 https://www.jpxgyw.cc
+! ‎性感尤物
 www.jpxgyw.cc##div.pagination > p
 www.jpxgyw.cc##[src="/uploadfile/zyx.gif"]
 www.jpxgyw.cc##.focusbox
@@ -85,15 +88,14 @@ www.ka234.cc##.Title111
 ! 2022-09-10 https://hpjav.tv
 hpjav.tv##.visible-lg-block.visible-md-block.visible-sm-block
 
-! 2022-09-13 https://hotgirl.asia
+! HotGirl.asia
 hotgirl.asia##[href="https://kungfutv.net"]
 
-! 2022-09-13 https://rouv01.xyz
-rouv01.xyz##.grid>.col-span-2
-
-! 2022-09-14 https://www.gdaily.org
+! Gdaily
 www.gdaily.org##div.col-4.column:has( > .card > .adsbygoogle)
 
+! MISSAV
+missav.com##div[style="height: 0px !important; width: 0px !important; margin: 0px !important; padding: 0px !important; border: none !important; clear: both !important; display: block !important; visibility: hidden !important;"]
 
-
-
+! 愛下電子書
+tw.ixdzs.com##p.abg
