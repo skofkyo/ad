@@ -45,6 +45,7 @@ mtav.art##.div-relative
 
 ! 牛C網
 niuc1.com##.post-apd
+niuc1.com###search+div
 
 ! Avple.tv
 avple.tv##.MuiContainer-maxWidthLg.MuiContainer-root > div > .MuiSkeleton-pulse.jss12.MuiSkeleton-rect.MuiSkeleton-root
@@ -76,18 +77,15 @@ jav9999.com##.sygg.text-center > .text-center
 ! JAV目錄大全
 javcaptain.com##div.category-page.video-list-item.col-xl-3.col-lg-2.col-md-3.col-sm-6.col-6.mb-2
 
-! ‎性感尤物
-www.jpxgyw.cc##div.pagination > p
-www.jpxgyw.cc##[src="/uploadfile/zyx.gif"]
-www.jpxgyw.cc##.focusbox
+! 性感尤物
+www.jpmn5.com##div.pagination > p
+www.jpmn5.com##[src="/uploadfile/zyx.gif"]
+www.jpmn5.com##.focusbox
 
 ! 2022-09-10 https://www.ka234.cc
 www.ka234.cc##.dibu1
 www.ka234.cc##.dibu2
 www.ka234.cc##.Title111
-
-! 2022-09-10 https://hpjav.tv
-hpjav.tv##.visible-lg-block.visible-md-block.visible-sm-block
 
 ! HotGirl.asia
 hotgirl.asia##[href="https://kungfutv.net"]
@@ -97,6 +95,18 @@ www.gdaily.org##div.col-4.column:has( > .card > .adsbygoogle)
 
 ! MISSAV
 missav.com##div[style="height: 0px !important; width: 0px !important; margin: 0px !important; padding: 0px !important; border: none !important; clear: both !important; display: block !important; visibility: hidden !important;"]
+missav.com##.root--1RmGt
+missav.com##.root--3BHg4
 
 ! 愛下電子書
 tw.ixdzs.com##p.abg
+
+! 大眼仔
+www.dayanzai.me##[src="http://www.dayanzai.me/image/ad/dayanzaifans.png"]
+
+! hitxhot.com
+hitxhot.com###fffff111
+
+! 酷漫屋手機版
+m.kumw5.com###adhtml
+m.kuman56.com###adhtml
