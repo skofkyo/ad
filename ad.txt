@@ -18,6 +18,7 @@ www.azofreeware.com###HTML11
 
 !愛污傳媒
 www.aiwucm4.info##div.container > .row
+www.aiwu333.top##div.container > .row
 
 ! 亿破姐
 www.ypojie.com##.swiper-container-horizontal.swiper-container-initialized.swiper-container
@@ -62,13 +63,14 @@ tw.xchina.co##.top
 tw.xchina.co##div.image > div.ad
 
 ! 黃色倉庫
-398ck.cc##body > div > a
-398ck.cc##li:has( > div > a[href="https://uu27p.com"])
-398ck.cc##div:has( > a[target="_blank"])
+2279ck.cc##body > div > a
+2279ckk.cc##li:has( > div > a[target])
+2279ck.cc##div:has( > a[target])
 
 ! 小丑撸
 www.jokerlu357.cc##div.col-md-2:has( > div.resent-grid-img > a[href="https://lanren37.xyz"])
 www.jokerlu357.cc##div.col-md-2:has( > div.resent-grid-img > a[href="http://tom-sohu.com/xiaochou-caidan"])
+www.jokerlu357.cc##.recommended-grids:has( > .file)
 
 ! JAV9999
 jav9999.com##.container > .text-center.sygg
@@ -106,7 +108,31 @@ www.dayanzai.me##[src="http://www.dayanzai.me/image/ad/dayanzaifans.png"]
 
 ! hitxhot.com
 hitxhot.com###fffff111
+hitxhot.com##.thumb-view:has( > div > ins > ins.adsbyexoclick)
+hitxhot.com##.thumb-view:has( > div > ins > script)
 
 ! 酷漫屋手機版
 m.kumw5.com###adhtml
 m.kuman56.com###adhtml
+
+!極品性感美女
+www.jpmn5.com###pagetual-preload+div
+
+! NEXE
+nneex.xyz##.margin-xs+.padding-lr-xs.margin-tb-xs
+
+! MM范
+www.95mm.org##.col-6:has(>.flex-fill)
+
+! 博仕書屋手機版
+m.77z5.com##body > div:nth-child(1)
+m.77z5.com##footer+div+script+script+script+script+div+script+div+div
+m.77z5.com##footer+div+script+script+script+script+div+script+div
+m.77z5.com##footer+div+script+script+script+script+script+div+div+div
+m.77z5.com##footer+div+script+script+script+script+script+div+div
+m.77z5.com##footer+div+script+script+script+script+script+div
+m.77z5.com##footer+div+script+script+script+script+div
+m.77z5.com##footer+div+script+div+script+div
+m.77z5.com##footer+div+script+script+div
+m.77z5.com##footer+div+script+div
+m.77z5.com##footer+div
