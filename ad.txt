@@ -136,3 +136,12 @@ m.77z5.com##footer+div+script+div+script+div
 m.77z5.com##footer+div+script+script+div
 m.77z5.com##footer+div+script+div
 m.77z5.com##footer+div
+
+! 2022-10-02 https://dongtidemimi.org
+dongtidemimi.org##.__single_0.wpcom_myimg_wrap > p
+dongtidemimi.org##.widget_html_myimg.widget
+
+! 砂之船动漫家
+www.szcdmj.com##body>a[id]+div[style*='z-index']
+
+
