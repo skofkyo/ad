@@ -4,6 +4,106 @@
 ! https://filters.adavoid.org/ultimate-ad-filter.txt
 ! https://raw.githubusercontent.com/skofkyo/ad/main/ad.txt
 
+!6 漫画
+http://m.sixmh7.com/style/js/jquery.lazyload.min.js
+
+!凸凹吧/撸女吧
+www.tuao8.xyz##body>div[style]:not(#pagetual-preload)
+www.tumm.cc##body>div[style]:not(#pagetual-preload)
+www.97mm.cc##body>div[style]:not(#pagetual-preload)
+
+!鹹濕仔日報
+jdaily18.com###head
+
+!Pic Yailay
+pic.yailay.com##.widget.widget_text
+
+!Sex Nori
+www.sexnori25.me###topads
+
+!av6k
+av6k.com##.clickadulist
+av6k.com##.more_01
+
+!85TUBE
+85tube.com##.footer-margin
+
+!GGJAV
+ggjav.com##.native_ads
+
+!cn.sexyxbody.com
+cn.sexyxbody.com##.post-outer-ad
+cn.sexyxbody.com##div:has(>.adsbyexoclick)
+
+!porn87.com
+porn87.com##.native_ads
+
+!cn.comfff.com
+cn.comfff.com##.b300
+
+!www.comfff.com
+www.comfff.com##.b300
+
+!www.pornff.com
+www.pornff.com##.b300
+
+!www.heihd.com
+www.heihd.com##.b300
+
+!www.huiav.com
+www.huiav.com##.b300
+
+!www.miliav.com
+www.miliav.com##.b300
+
+!www.keaiav.com
+www.keaiav.com##.b300
+
+!www.liliav.com
+www.liliav.com##.b300
+
+!www.feiav.com
+www.feiav.com##.b300
+
+!www.tasexy.com
+www.tasexy.com##.b300
+www.tasexy.com###sexy_a1
+www.tasexy.com###sexy_a2
+
+!www.jiedm.com
+www.jiedm.com##.b300
+
+!www.dnaav.com
+www.dnaav.com##.b300
+www.dnaav.com###dnaav_a1
+www.dnaav.com###dnaav_a2
+
+!www.txtxi.com
+www.txtxi.com##.b300
+www.txtxi.com###txtxi_a1
+www.txtxi.com###txtxi_a2
+
+!www.yinmh.com
+www.yinmh.com##.b300
+www.yinmh.com###yinmh_a1
+www.yinmh.com###yinmh_a2
+
+!www.qinimg.com
+www.qinimg.com##.b300
+
+!www.qinav.com
+www.qinav.com##.b300
+www.qinav.com###qinav_a1
+www.qinav.com###qinav_a2
+
+!www.jieav.com
+www.jieav.com##.b300
+www.jieav.com###jieav_a1
+www.jieav.com###jieav_a2
+
+! 秀人美女網
+www.xrmn5.com###bkigbottom
+
 ! 阿榮福利味
 www.azofreeware.com##.FeaturedPost.widget
 www.azofreeware.com###HTML9
@@ -53,10 +153,12 @@ avple.tv##.MuiContainer-maxWidthLg.MuiContainer-root > div > .MuiSkeleton-pulse.
 avple.tv##.MuiContainer-maxWidthLg.MuiContainer-root > div > div > .MuiSkeleton-pulse.jss12.MuiSkeleton-rect.MuiSkeleton-root
 
 ! 小黃書
+xchina.co##*[class*='_']
 xchina.co##div.photos div.item
 xchina.co##.push-bottom
 xchina.co##.top
 xchina.co##div.image > div.ad
+tw.xchina.co##*[class*='_']
 tw.xchina.co##div.photos div.item
 tw.xchina.co##.push-bottom
 tw.xchina.co##.top
@@ -143,5 +245,3 @@ dongtidemimi.org##.widget_html_myimg.widget
 
 ! 砂之船动漫家
 www.szcdmj.com##body>a[id]+div[style*='z-index']
-
-
