@@ -1,8 +1,7 @@
-! Title: 自用檔廣告規則
-! https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
-! https://easylist-downloads.adblockplus.org/easylistchina.txt
-! https://filters.adavoid.org/ultimate-ad-filter.txt
-! https://raw.githubusercontent.com/skofkyo/ad/main/ad.txt
+! 無限動漫
+www.comicabc.com##.mt-3:has(>script)
+www.comicabc.com##.view_gg_content:has(>script)
+8.twobili.com##div:has([id^='div-gpt-ad'])
 
 !6 漫画
 http://m.sixmh7.com/style/js/jquery.lazyload.min.js
@@ -147,6 +146,7 @@ mtav.art##.div-relative
 ! 牛C網
 niuc1.com##.post-apd
 niuc1.com###search+div
+niuc1.com###bottomNavad
 
 ! Avple.tv
 avple.tv##.MuiContainer-maxWidthLg.MuiContainer-root > div > .MuiSkeleton-pulse.jss12.MuiSkeleton-rect.MuiSkeleton-root
@@ -208,6 +208,9 @@ tw.ixdzs.com##p.abg
 ! 大眼仔
 www.dayanzai.me##[src="http://www.dayanzai.me/image/ad/dayanzaifans.png"]
 
+! 拷貝漫畫
+copymanga.site##.header-jum,.container.swiper-content,.container.recommend
+
 ! hitxhot.com
 hitxhot.com###fffff111
 hitxhot.com##.thumb-view:has( > div > ins > ins.adsbyexoclick)
@@ -245,3 +248,4 @@ dongtidemimi.org##.widget_html_myimg.widget
 
 ! 砂之船动漫家
 www.szcdmj.com##body>a[id]+div[style*='z-index']
+
