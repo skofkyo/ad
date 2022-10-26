@@ -1,8 +1,19 @@
 ! Title: 自用檔廣告規則
 ! https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 ! https://easylist-downloads.adblockplus.org/easylistchina.txt
-! https://filters.adavoid.org/ultimate-ad-filter.txt
 ! https://raw.githubusercontent.com/skofkyo/ad/main/ad.txt
+
+avbro.top##li:has(>div>[title="廣告合作"])
+
+www.gogort2.com##ins[style*='z-index']
+www.gogort2.com##body>div:has(>a[onclick])
+! 漫畫DB
+www.manhuadb.com##div.row:has(>div>.comicbook-index>.one-line)
+www.manhuadb.com##div.p-3:has(>.row>div>.comicbook-index)
+www.manhuadb.com##div.default-wrapper:has(>.top10-list)
+
+! 4KUP
+www.4kup.net##h3.title
 
 ! 無限動漫
 www.comicabc.com##.mt-3:has(>script)
@@ -150,30 +161,31 @@ madou.club##.focusbox
 mtav.art##.div-relative
 
 ! 牛C網
-niuc1.com##.post-apd
-niuc1.com###search+div
-niuc1.com###bottomNavad
+niuc.icu##.post-apd
+niuc.icu###search+div
+niuc.icu###bottomNavad
 
 ! Avple.tv
 avple.tv##.MuiContainer-maxWidthLg.MuiContainer-root > div > .MuiSkeleton-pulse.jss12.MuiSkeleton-rect.MuiSkeleton-root
 avple.tv##.MuiContainer-maxWidthLg.MuiContainer-root > div > div > .MuiSkeleton-pulse.jss12.MuiSkeleton-rect.MuiSkeleton-root
 
 ! 小黃書
-xchina.co##*[class*='_']
 xchina.co##div.photos div.item
 xchina.co##.push-bottom
 xchina.co##.top
 xchina.co##div.image > div.ad
-tw.xchina.co##*[class*='_']
 tw.xchina.co##div.photos div.item
 tw.xchina.co##.push-bottom
 tw.xchina.co##.top
 tw.xchina.co##div.image > div.ad
 
 ! 黃色倉庫
-2279ck.cc##body > div > a
-2279ckk.cc##li:has( > div > a[target])
-2279ck.cc##div:has( > a[target])
+2333ck.cc##body > div > a
+2333ck.cc##li:has( > div > a[target])
+2333ck.cc##div:has( > a[target])
+www.239999.xyz##body > div > a
+www.239999.xyz##li:has( > div > a[target])
+www.239999.xyz##div:has( > a[target])
 
 ! 小丑撸
 www.jokerlu357.cc##div.col-md-2:has( > div.resent-grid-img > a[href="https://lanren37.xyz"])
@@ -184,8 +196,9 @@ www.jokerlu357.cc##.recommended-grids:has( > .file)
 jav9999.com##.container > .text-center.sygg
 jav9999.com##.sygg.text-center > .text-center
 
-! JAV目錄大全
-javcaptain.com##div.category-page.video-list-item.col-xl-3.col-lg-2.col-md-3.col-sm-6.col-6.mb-2
+! 癡漢隊長
+javcaptain.com##div.video-list-item:has(>div>a[rel])
+javcaptain.com###sidebar_card
 
 ! 性感尤物
 www.jpmn5.com##div.pagination > p
@@ -231,6 +244,9 @@ www.jpmn5.com###pagetual-preload+div
 
 ! NEXE
 nneex.xyz##.margin-xs+.padding-lr-xs.margin-tb-xs
+nncsh.top##[data-union-ad]~div:not(#pagetual-preload),body>iframe~div:not(#pagetual-preload),.padding-lr-xs.margin-tb-xs,body>brde
+nnwjs.top##[data-union-ad]~div:not(#pagetual-preload),body>iframe~div:not(#pagetual-preload),.padding-lr-xs.margin-tb-xs,body>brde
+
 
 ! MM范
 www.95mm.org##.col-6:has(>.flex-fill)
@@ -254,4 +270,6 @@ dongtidemimi.org##.widget_html_myimg.widget
 
 ! 砂之船动漫家
 www.szcdmj.com##body>a[id]+div[style*='z-index']
+
+
 
