@@ -1,8 +1,19 @@
-! Title: 自用檔廣告規則
-! https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
-! https://easylist-downloads.adblockplus.org/easylistchina.txt
-! https://raw.githubusercontent.com/skofkyo/ad/main/ad.txt
+https://www.tniupjzpmb.com/hkcd.js
+https://www.hitxhot.org/privid1/themes/popcorn/awpt/js/thumbs.js
+https://www.4khd.com/js/disable.min.js
+https://npm.elemecdn.com/mztstatic@1.2.16/app/app.js
+https://npm.elemecdn.com/mztstatic@1.2.16/style/post.js
+*://*/s/page_runtime_v5.js?v=2023*
+www.hitxhot.org##div.thumb-view:has(>.thcovering-video>ins>script)
+www.hitxhot.org##div.thumb-view:has(>.thcovering-video>ins>iframe)
+www.depvailon.com##div.thumb-view:has(>.thcovering-video>ins>script)
+www.depvailon.com##div.thumb-view:has(>.thcovering-video>ins>iframe)
+pic.yailay.com##div.thumb-view:has(>.thcovering-video>ins>script)
+pic.yailay.com##div.thumb-view:has(>.thcovering-video>ins>iframe)
 
+dopaminegirl.com##.row:has(#aaa)
+
+m.kumw5.com##aside
 avbro.top##li:has(>div>[title="廣告合作"])
 
 www.gogort2.com##ins[style*='z-index']
@@ -133,8 +144,7 @@ www.azofreeware.com###LinkList3
 www.azofreeware.com###HTML11
 
 !愛污傳媒
-www.aiwucm4.info##div.container > .row
-www.aiwu333.top##div.container > .row
+www.aiwootv.info##div.container > .row,.toppic,.bottomd,.leftpic,.rightpic
 
 ! 亿破姐
 www.ypojie.com##.swiper-container-horizontal.swiper-container-initialized.swiper-container
@@ -145,6 +155,8 @@ www.ypojie.com##.excerpt-sticky.excerpt-1.excerpt
 ! 肉視頻
 rou.video##.modal-open.modal-middle.modal
 rou.video##.grid>.col-span-2
+rouv05.xyz##.modal-open.modal-middle.modal
+rouv05.xyz##.grid>.col-span-2
 rouv01.xyz##.modal-open.modal-middle.modal
 rouv01.xyz##.grid>.col-span-2
 
@@ -164,6 +176,9 @@ mtav.art##.div-relative
 niuc.icu##.post-apd
 niuc.icu###search+div
 niuc.icu###bottomNavad
+niuc1.com##.post-apd
+niuc1.com###search+div
+niuc1.com###bottomNavad
 
 ! Avple.tv
 avple.tv##.MuiContainer-maxWidthLg.MuiContainer-root > div > .MuiSkeleton-pulse.jss12.MuiSkeleton-rect.MuiSkeleton-root
@@ -174,15 +189,22 @@ xchina.co##div.photos div.item
 xchina.co##.push-bottom
 xchina.co##.top
 xchina.co##div.image > div.ad
+xchina.co##body>footer~*:not([id^='pv-']):not([class^='pv-']):not(.pagetual_tipsWords):not(#customPicDownload):not(.customPicDownloadMsg)
 tw.xchina.co##div.photos div.item
 tw.xchina.co##.push-bottom
 tw.xchina.co##.top
 tw.xchina.co##div.image > div.ad
+tw.xchina.co##body>footer~*:not([id^='pv-']):not([class^='pv-']):not(.pagetual_tipsWords):not(#customPicDownload):not(.customPicDownloadMsg)
+8se.me##.slider-ad
+8se.me##.body>*:not(.article):not(.pager):not(h2):not(._categories):not(._photos):not(.info):not(.photo-tags):not(.download):not(.photo-video)
+8se.me##.aside>.center
+8se.me##body>footer~*:not([id^='pv-']):not([class^='pv-']):not(.pagetual_tipsWords):not(#customPicDownload):not(.customPicDownloadMsg)
+tw.8se.me##body>footer~*:not([id^='pv-']):not([class^='pv-']):not(.pagetual_tipsWords):not(#customPicDownload):not(.customPicDownloadMsg)
 
 ! 黃色倉庫
-2333ck.cc##body > div > a
-2333ck.cc##li:has( > div > a[target])
-2333ck.cc##div:has( > a[target])
+kihsck.cc##body > div > a
+kihsck.cc##li:has( > div > a[target])
+kihsck.cc##div:has( > a[target])
 www.239999.xyz##body > div > a
 www.239999.xyz##li:has( > div > a[target])
 www.239999.xyz##div:has( > a[target])
@@ -270,6 +292,4 @@ dongtidemimi.org##.widget_html_myimg.widget
 
 ! 砂之船动漫家
 www.szcdmj.com##body>a[id]+div[style*='z-index']
-
-
 
